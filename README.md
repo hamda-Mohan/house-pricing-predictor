@@ -45,7 +45,7 @@ house_price_prediction/
 1. Create and activate a Python virtual environment:
     ```bash
     python -m venv venv
-    source venv/bin/activate
+    venv\Scripts\activate
     ```
 2. Install dependencies:
     ```bash
